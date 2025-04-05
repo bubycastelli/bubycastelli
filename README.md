@@ -1,7 +1,7 @@
 <h2>👋 Hola! Soy Agustina </h2>
-Diseñadora gráfica que se está formando como desarrolladora. Apasionada por el desarrollo de aplicaciones. Me encanta aprender nuevas tecnologías y enfrentarme a retos que me permitan crecer tanto profesionalmente como personalmente.
+Soy diseñadora gráfica con sólida experiencia en diseño digital y habilidades técnicas adquiridas a través de cursos de programación. Estudio para ser desarrolladora Full Stack. Apasionada por la tecnología y el desarrollo de soluciones creativas, busco consolidar mi carrera como desarrolladora, aportando una visión estética y funcional a proyectos.
 <br><br>
-<b><h3>🔧 Mis habilidades incluyen:</h3></b>
+<b><h3>🔧 Habilidades técnicas y herramientas</h3></b>
 <b>Lenguajes:</b> JavaScript, Python, Java.<br>
 <b>Desarrollo web:</b> HTML5, CSS3, JavaScript.<br>
 <b>Bases de datos:</b> MySQL, SQL.<br>
