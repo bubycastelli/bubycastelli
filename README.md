@@ -1,4 +1,4 @@
-<h2>👋 Hola! Soy Agustina </h2>
+<h2>👋 Hola! Soy Agus </h2>
 Soy diseñadora gráfica con sólida experiencia en diseño digital y habilidades técnicas adquiridas a través de cursos de programación. Estudio para ser desarrolladora Full Stack. Apasionada por la tecnología y el desarrollo de soluciones creativas, busco consolidar mi carrera como desarrolladora, aportando una visión estética y funcional a proyectos.
 <br><br>
 <b><h3>🔧 Habilidades técnicas y herramientas</h3></b>
